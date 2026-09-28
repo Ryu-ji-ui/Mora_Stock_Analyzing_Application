@@ -95,3 +95,4 @@ The relational database (managed via SQLAlchemy) consists of the following core 
 - `GET / POST / DELETE /mutual-portfolio` - Manage mutual fund holdings.
 - `GET / POST / DELETE /watchlist` - Manage user watchlists.
 - `GET /market-news` - Retrieve general market sentiment.
+Added bat file
